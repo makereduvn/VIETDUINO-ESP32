@@ -70,9 +70,6 @@ Vietduino ESP32 là lựa chọn lý tưởng cho giáo dục STEM, phòng thí 
 ## Kích thước
 ![Vietduino ESP32](/extras/vietduino_esp32_1.png)
 
-## Sơ đồ chân
-![Vietduino ESP32](/extras/vietduino_esp32_2.png)
-
 ## Hướng dẫn sử dụng cơ bản với Arduino IDE
 ### Bước 1: Cài đặt Arduino IDE và cấu hình mạch
 - Tải và cài đặt [Phần mềm Arduino IDE từ trang chủ Arduino](https://www.arduino.cc/en/software) phù hợp với hệ điều hành đang sử dụng.
@@ -114,6 +111,7 @@ Chương trình này sẽ quét các mạng Wifi có sẵn trong khu vực và h
  ## Hình ảnh sản phẩm
 ![Vietduino ESP32](/extras/vietduino_esp32_7.png)
 ![Vietduino ESP32](/extras/vietduino_esp32_8.png)
+
 
 
 
