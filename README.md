@@ -1,4 +1,8 @@
 # Mạch phát triển Vietduino ESP32
+
+_**Miễn trừ trách nhiệm:** _Sản phẩm này là bo mạch phát triển được thiết kế phục vụ cho mục đích nghiên cứu, thử nghiệm và học tập, không phải là một thiết bị hoàn chỉnh. Trong trường hợp người dùng kết hợp mạch này với các linh kiện, thiết bị hoặc phần mềm khác để tạo thành một hệ thống hoặc sản phẩm hoàn chỉnh, mọi chức năng và tính phù hợp của sản phẩm sau cùng đều thuộc trách nhiệm của người dùng.__
+
+## Giới thiệu
 Vietduino ESP32 là mạch phát triển do MakerEDU nghiên cứu và sản xuất, dựa trên module ESP-WROOM-32E chính hãng Espressif. Bo mạch được thiết kế theo form factor Arduino, với hình dạng và cách bố trí chân tín hiệu tương đồng cao với chuẩn Arduino, giúp người dùng dễ dàng tiếp cận, học tập và phát triển ứng dụng.
 
 Nhờ tích hợp vi điều khiển ESP32 hiệu năng cao, Vietduino ESP32 mang lại khả năng xử lý mạnh mẽ cùng kết nối Wi-Fi và Bluetooth BLE linh hoạt, phù hợp cho nhiều ứng dụng như IoT, AIoT, hệ thống điều khiển không dây, nghiên cứu nhúng và giáo dục STEM.
